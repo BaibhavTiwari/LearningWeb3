@@ -133,5 +133,9 @@ Whether you are a beginner or an experienced developer, these accumulated resour
   ------------------------------------------
 
 ### To Remember: 📍
-> Remember that learning any new skill takes time and practice. Make sure to engage with the developer community, participate in coding challenges, and work on real-world projects to solidify your knowledge.
-  Good luck on your web3 development journey!
+> - this roadmap provides a general framework, and you can always explore additional topics based on your specific interests and goals. Happy learning!
+> - Remember to practice coding, explore additional resources and documentation, and engage with the developer community to deepen your understanding and stay up to date with the latest developments.
+
+
+### Happy learning! 🫡
+
