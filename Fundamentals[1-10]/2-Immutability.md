@@ -8,7 +8,7 @@ The immutability of blockchain data provides many benefits, including greater se
 <ul>
 <b>
 
-==Cryptography + Blockchain Hashing Process = Immutability==
+`Cryptography + Blockchain Hashing Process = Immutability`
 </b>
 </ul>
 
@@ -41,10 +41,17 @@ Immutability is important on the Web3 for several reasons:
 ---------------------------------------
 
 ### How Immutability is Achieved. ⚙️
-**Immutability in Web3 is mainly provided by blockchain technology.**
+
 <ul>
 
-<img width="500" src ="https://github.com/BaibhavTiwari/100daysOfweb3/assets/75496387/1fedd029-e051-4201-a4e6-1465b92438ba">
+<img width="500" align ="center" src ="https://github.com/BaibhavTiwari/100daysOfweb3/assets/75496387/1fedd029-e051-4201-a4e6-1465b92438ba"><br>
+  
+<p>The image shows how the checksum of transaction data is added as part of the header, which, in turn, is hashed into and becomes that entire block’s checksum.
+  
+**Immutability in Web3 is mainly provided by blockchain technology.**  
+
+</p>
+
 </img>
 
 
@@ -60,8 +67,10 @@ Immutability is important on the Web3 for several reasons:
 444 
 6. **Distributed ledger:** Blockchain information is stored and replicated across many nodes in a decentralized network. Each partnership maintains a copy of the entire blockchain. This distribution of data provides redundancy and reproducibility because data is still valid even if some nodes are offline or are affected. The consensus strategy ensures that copies of the blockchain are identical and immutable.
 444 
-7. **Network Security**: The Web3 network is designed to be highly secure, making it difficult for attackers to tamper with the blockchain. A combination of cryptographic hashing, confirmation processes, and data transmission ensures that the network is protected against malicious attempts to alter or manipulate data. By following these steps,
+7. **Network Security**: The Web3 network is designed to be highly secure, making it difficult for attackers to tamper with the blockchain. A combination of cryptographic hashing, confirmation processes, and data transmission ensures that the network is protected against malicious attempts to alter or manipulate data.
 </ul>
 
-
 `By combining these elements, blockchain achieves immutability by creating a secure and tamper-proof ledger where data cannot be altered without detection. This characteristic establishes trust, enables transparency, and provides a reliable record of transactions and events on the blockchain.`
+
+#### Resources:
+Blockchain Immutability — Why Does it Matter? [`Here📄`](https://medium.com/fluree/immutability-and-the-enterprise-an-immense-value-proposition-98cd3bf900b1)
