@@ -1,19 +1,19 @@
-# 100daysOfweb3 🕸
+# Learning Web3 #️⃣
 <p>
-This repository contains an extensive collection of my learnings and resources which I have used throughout the journey of completing the 100 Days of Web3 challenge. It covers a wide range of valuable information, including tutorials, guides, code snippets, and reference materials.By exploring this repository, you will gain insights into various aspects of web3 and enhance your understanding of this exciting and rapidly evolving field.
+This repository contains an extensive collection of my learnings and resources which I have used throughout the journey of completing Web3 Learning challenge. It covers a wide range of valuable information, including tutorials, guides, code snippets, and reference materials.By exploring this repository, you will gain insights into various aspects of web3 and enhance your understanding of this exciting and rapidly evolving field.
 
 Whether you are a beginner or an experienced developer, these accumulated resources can provide valuable guidance and support as you delve into the world of Web3 technologies.
 </p>
 
 ------------------------------------------
-`Here's The Roadmap which i'll be following through out the 100 days web3.`
+`Here's The Roadmap which i'll be following through out.`
 <h2> Roadmap: 🛣️ </h2>  
 
 <details>
-<summary><b>Days 1-10: Fundamentals</b></summary>
+<summary><b> Fundamentals</b></summary>
   <ul>
     
-- [ ] Learn the basics of blockchain technology and its underlying concepts (decentralization, immutability, consensus mechanisms).
+- [X] Learn the basics of blockchain technology and its underlying concepts (decentralization, immutability, consensus mechanisms).
   
 - [ ] Familiarize yourself with cryptocurrencies and smart contracts.
   
@@ -23,7 +23,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 11-20: Solidity and Smart Contracts</b></summary>
+<summary><b> Solidity and Smart Contracts</b></summary>
 <ul>
   
 - [ ] Dive deeper into Solidity, the programming language used for writing smart contracts on Ethereum.
@@ -35,7 +35,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 21-30: Web3.js and Ethereum Development</b></summary>
+<summary><b> Web3.js and Ethereum Development</b></summary>
 <ul>
   
 - [ ] Study Web3.js, a JavaScript library for interacting with Ethereum.
@@ -47,7 +47,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 31-40: Decentralized Storage</b></summary>
+<summary><b> Decentralized Storage</b></summary>
 <ul>
   
 - [ ] Explore decentralized storage solutions such as IPFS (InterPlanetary File System) and Swarm.
@@ -59,7 +59,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 41-50: Front-End Development</b></summary>
+<summary><b> Front-End Development</b></summary>
 <ul>
   
 - [ ] Familiarize yourself with front-end development technologies such as HTML, CSS, and JavaScript.
@@ -71,7 +71,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 51-60: Smart Contract Testing and Security</b></summary>
+<summary><b> Smart Contract Testing and Security</b></summary>
 <ul>
   
 - [ ] Learn about testing methodologies and frameworks for smart contracts.
@@ -83,7 +83,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 61-70: Blockchain Development Platforms</b></summary>
+<summary><b> Blockchain Development Platforms</b></summary>
 <ul>
   
 - [ ] Dive into blockchain development platforms such as Ethereum alternatives (e.g., Polkadot, Cardano) or layer 2 solutions (e.g., Optimism, Polygon).
@@ -95,7 +95,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 71-80: Decentralized Finance (DeFi)</b></summary>
+<summary><b> Decentralized Finance (DeFi)</b></summary>
 <ul>
   
 - [ ] Study the concepts and protocols of decentralized finance.
@@ -107,7 +107,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 81-90: NFTs and Tokenization</b></summary>
+<summary><b> NFTs and Tokenization</b></summary>
 <ul>
   
 - [ ] Dive into the world of non-fungible tokens (NFTs) and tokenization.
@@ -119,7 +119,7 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 </details>
 
 <details>
-<summary><b>Days 91-100: Final Projects and Deployment</b></summary>
+<summary><b> Final Projects and Deployment</b></summary>
 <ul>
   
 - [ ] Build a complex decentralized application that incorporates multiple concepts and technologies you've learned.
