@@ -13,11 +13,11 @@ Whether you are a beginner or an experienced developer, these accumulated resour
 <summary><b>Days 1-10: Fundamentals</b></summary>
   <ul>
     
-- [ ] Learn the basics of blockchain technology and its underlying concepts (decentralization, immutability, consensus mechanisms).
+- [X] Learn the basics of blockchain technology and its underlying concepts (decentralization, immutability, consensus mechanisms).
   
-- [ ] Familiarize yourself with cryptocurrencies and smart contracts.
+- [X] Familiarize yourself with cryptocurrencies and smart contracts.
   
-- [ ] Study the Ethereum blockchain and its ecosystem.
+- [X] Study the Ethereum blockchain and its ecosystem.
   
   
 </details>
