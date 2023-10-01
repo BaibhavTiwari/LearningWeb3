@@ -1,8 +1,10 @@
 ### Ethereum Ecosystem
-The Ethereum ecosystem refers to the large network of projects, applications, developers, users and technologies built around the Ethereum blockchain platform. Ethereum is an open source blockchain that introduces smart contracts. Smart contracts execute contracts and the content of the contract is written directly into the program code. These smart contracts allow developers to build distributed applications (DApps) on top of the Ethereum blockchain. Here are some important features of the Ethereum ecosystem:
+The Ethereum ecosystem refers to the large network of projects, applications, developers, users and technologies built around the Ethereum blockchain platform. Ethereum is an open source blockchain that introduces smart contracts. Smart contracts execute contracts and the content of the contract is written directly into the program code. 
+<br>These smart contracts allow developers to build distributed applications (DApps) on top of the Ethereum blockchain. Here are some important features of the Ethereum ecosystem:
 <br>
 
-![Ecosystem](https://www.researchgate.net/profile/Martin-Brennecke/publication/358165991/figure/fig3/AS:1125910283583489@1645449338466/The-Ethereum-ecosystem.png)
+![Ecosystem](https://github.com/BaibhavTiwari/LearningWeb3/assets/75496387/04da1f92-3050-4deb-84c4-0405dcc1b584)
+
 <br>
 
 1. **Ethereum Blockchain:** The core layer of the ecosystem is the Ethereum blockchain itself. It is a list of products that record all transactions and smart contracts.
